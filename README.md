@@ -2,7 +2,7 @@
 
 ## About the ShelveR Project
 
-Libraries occasionally need to re-shelve their books in a large scale, e.g. when the whole library is relocated or during a massive weeding, when shelf space is to be allocated for new items. 
+Libraries occasionally need to re-shelve their books on a large scale, e.g. when the whole library is relocated or during a massive weeding, when shelf space is to be allocated for new items. 
 
 ShelveR provides librarians with an easy way of planning their book shelves at those situations, so that they can decide how many shelves they need to allocate for book of a certain classification number. 
 
@@ -72,5 +72,5 @@ At Sichuan Provincial Library, Ms. WU Xia, Vice-Head of Access Services Departme
 
 USE THIS PROJECT AT YOUR OWN RISK AND NO WARRANTY IS PROVIDED.
 
-## Any improvements and suggestion for ShelveR is welcomed :-)
+## Any improvements and suggestions for ShelveR are welcomed :-)
 
