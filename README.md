@@ -33,6 +33,7 @@ For books cataloged in and after 2016, the call number will be like "2018/K0/4:v
 You will need to replace this function to fit your library's own call number scheme.
 
 The input data file will be: "source_data.xlsx"
+
 And the output data file: "ordered_data.csv" 
 
 ### Generating Thickness of Each Book 
@@ -40,6 +41,7 @@ And the output data file: "ordered_data.csv"
 In this step, we will use a linear model to generate the thickness of each book. 
 
 Input data file: "ordered_data.xlsx"
+
 Output data file: "ordered_data_with_thickness.csv"
 
 ### Automated Planning 
